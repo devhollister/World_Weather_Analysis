@@ -8,6 +8,8 @@ random_numbers.ipynb
 #adding challenge config
 config2.py
 
+#adding next config
+config3.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
