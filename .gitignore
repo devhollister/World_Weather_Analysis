@@ -10,6 +10,8 @@ config2.py
 
 #adding next config
 config3.py
+config4.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
